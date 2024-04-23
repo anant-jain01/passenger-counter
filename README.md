@@ -20,13 +20,10 @@ This is a simple web application that counts the number of passengers entering a
 - JavaScript
 
 ## Acknowledgements
-- This project was built by following a [FreeCodeCamp](https://readme.so/) tutorial.
-
-## License
-This project is open source and available under the [MIT License](https://github.com/m-ramzan786/Counter-App).
+- This project was built by following a FreeCodeCamp tutorial.
 
 ## Author
-- Your Name
+- Anant Jain
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
